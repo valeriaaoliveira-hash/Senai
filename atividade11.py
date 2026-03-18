@@ -24,4 +24,4 @@ print("\n Estoque Final ---")
 for p, q in estoque.items():
     print(f"{p}: {q}")
     #adicione produtos (entrada)
-retire produtos (saída)
+#retire produtos (saída)

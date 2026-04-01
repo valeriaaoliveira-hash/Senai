@@ -1,4 +1,4 @@
-estoque = {}
+ estoque = {}
 print ("Bem Vindo ao sistema de gestao de estoque desenvolvido por João Maciel")
 while True:
     operacao = input ("deseja reagir a entrada e saída de produto? (digite'entrada ou saída') ou 'sair'").lower()
